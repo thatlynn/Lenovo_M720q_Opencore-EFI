@@ -1,5 +1,5 @@
 ## Hardware
-Components | Recommended
+Components | Comments
 ------------ | -------------
 **Motherboard** | ThinkCentre M720 Tiny - Model: 10T700BTGE
 **CPU** | Intel i5 9400T - 1,8 GHz - 6 Core
